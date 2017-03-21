@@ -11,10 +11,13 @@
 #aboutp{
   text-allignment: justify;
 }
+
 body{
   background-size: cover;
-    background-image: url("http://www.zastavki.com/pictures/1920x1200/2010/3D-graphics_DJ_at_work_026349_.jpg");
+    background-image: url("http://www.fannone.com/i/2017/02/photography-wallpaper-widescreen.jpg");
     min-height: 100%;
+    
+  
 }
 </style>
 
