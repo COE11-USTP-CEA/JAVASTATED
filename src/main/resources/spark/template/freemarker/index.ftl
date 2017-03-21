@@ -117,11 +117,11 @@ body, html {
  
 </div>
   </div>
-  <div class="w3-display-left w3-padding-xxlarge w3-text-white">
+  <div class="w3-display-left w3-padding-xxlarge w3-text-red">
     <span class="w3-jumbo w3-hide-small">Share A Playlist</span><br>
     
     <span class="w3-large">PLAY . LISTEN . LOVE</span>
-    <p><a href="/about" class="w3-btn w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">What we do</a></p>
+    <p><a href="/about" class="w3-btn w3-red w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">What we do</a></p>
   </div>
   <div class="w3-display-buttomright w3-padding-large w3-text-white">
     <span class="w3-medium w3-hide-small">Powered By: Javastated</span><br>
